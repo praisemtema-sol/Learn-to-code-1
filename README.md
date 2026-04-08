@@ -1,2 +1,3 @@
 # Learn-to-code-1
-Learn to code 1 project
+
+This project is to track rogges on (LT1)- issuing commands onnthe playgrounds app.
